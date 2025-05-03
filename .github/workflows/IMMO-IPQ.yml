@@ -12,8 +12,8 @@ on:
 #    - cron: 0 16 * * *
 
 env:
-  REPO_URL: https://github.com/VIKINGYFY/immortalwrt
-  REPO_BRANCH: main
+  REPO_URL: https://github.com/immortalwrt/immortalwrt.git
+  REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: config/AW1000.config
   PATH_P1_SH: path/02_path.sh
