@@ -15,7 +15,7 @@ env:
   REPO_URL: https://github.com/VIKINGYFY/immortalwrt
   REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: config/.config
+  CONFIG_FILE: config/AW1000.config
   PATH_P1_SH: path/02_path.sh
   PATH_P2_SH: path/02_path.sh
   SSH_ACTIONS: false
